@@ -9,7 +9,7 @@ Under 18 years, but over 0 years: "The user is not yet an adult."
 
 Otherwise: "Invalid input!"*/
 
-``` js
+
 function checkAge(){
 var age = document.getElementbyId("age").value;
 console.log("Input age:", age);
@@ -17,4 +17,4 @@ console.log("Input age:", age);
 		console.log("The user is not yet an adult."); else
 		console.log("Invalid input!");
     }
-```
+
