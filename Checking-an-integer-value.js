@@ -1,4 +1,4 @@
-Checking-an-interger-value
+/*Checking-an-interger-value
 
 The webpage is asking for the user's age. The input value has already been fetched, but you have to fill in the missing code. 
 When the page calls the function checkAge(), first print in the console "The input age: [age]", followed by one of the following, depending on the value:
@@ -7,7 +7,7 @@ When the page calls the function checkAge(), first print in the console "The inp
 
 Under 18 years, but over 0 years: "The user is not yet an adult."
 
-Otherwise: "Invalid input!"
+Otherwise: "Invalid input!"*/
 
 ``` js
 function checkAge(){
